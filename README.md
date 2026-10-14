@@ -7,7 +7,7 @@ A personal portfolio built with HTML, CSS, and vanilla JavaScript. Open index.ht
 - A portrait-led design inspired by the supplied Pinterest reference.
 - Updated TCS experience in place of the Services section.
 - Four projects, with category filters and accessible detail dialogs.
-- AWS credentials plus the six certificates from the existing portfolio.
+- Claude Certified Associate - Foundations, AWS credentials, and the six certificates from the existing portfolio.
 - Education, the STUDWEBER achievement, resume, and original social links.
 - Dark and light themes, mobile navigation, and scroll-triggered animation.
 - Keyboard navigation and support for reduced-motion preferences.
@@ -19,6 +19,8 @@ The existing images and documents were recovered from the local portfolio_redesi
 The AWS project description distinguishes the public repository's initial networking foundation from the broader landing-zone work described in the resume. Training badges and course completions are distinguished from the AWS certification. AWS training entries link to LinkedIn where direct individual credential URLs were unavailable.
 
 The newer local Jagadish_Kumar_Resume.pdf is used for resume links. Both the original contact email and the professional resume email remain available.
+
+The Claude certification links directly to its verified Credly badge. MCA is marked completed and links to the supplied provisional certificate in documents/MCA_provisional.pdf.
 
 ## Editing
 

@@ -180,7 +180,7 @@
     const expanded = credentialsButton.getAttribute("aria-expanded") === "true";
     moreCredentials.hidden = expanded;
     credentialsButton.setAttribute("aria-expanded", String(!expanded));
-    credentialsButton.querySelector("span").textContent = expanded ? "View all 10 credentials" : "Show fewer credentials";
+    credentialsButton.querySelector("span").textContent = expanded ? "View all 11 credentials" : "Show fewer credentials";
     credentialsButton.querySelector("svg").style.transform = expanded ? "" : "rotate(45deg)";
     refreshScroll();
   });
